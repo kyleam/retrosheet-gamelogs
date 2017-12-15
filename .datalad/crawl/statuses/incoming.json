@@ -1,0 +1,753 @@
+{
+  "db_version": 1,
+  "files": {
+    "gl1871.zip": {
+      "filename": "gl1871.zip",
+      "mtime": 1511648099,
+      "size": 14504
+    },
+    "gl1872.zip": {
+      "filename": "gl1872.zip",
+      "mtime": 1511648099,
+      "size": 19892
+    },
+    "gl1873.zip": {
+      "filename": "gl1873.zip",
+      "mtime": 1511648100,
+      "size": 6030
+    },
+    "gl1874.zip": {
+      "filename": "gl1874.zip",
+      "mtime": 1511648100,
+      "size": 22805
+    },
+    "gl1875.zip": {
+      "filename": "gl1875.zip",
+      "mtime": 1511648100,
+      "size": 11666
+    },
+    "gl1876.zip": {
+      "filename": "gl1876.zip",
+      "mtime": 1511648101,
+      "size": 6996
+    },
+    "gl1877.zip": {
+      "filename": "gl1877.zip",
+      "mtime": 1511648101,
+      "size": 4624
+    },
+    "gl1878.zip": {
+      "filename": "gl1878.zip",
+      "mtime": 1511648101,
+      "size": 4431
+    },
+    "gl1879.zip": {
+      "filename": "gl1879.zip",
+      "mtime": 1511648101,
+      "size": 7481
+    },
+    "gl1880.zip": {
+      "filename": "gl1880.zip",
+      "mtime": 1511648102,
+      "size": 7840
+    },
+    "gl1881.zip": {
+      "filename": "gl1881.zip",
+      "mtime": 1511648102,
+      "size": 8242
+    },
+    "gl1882.zip": {
+      "filename": "gl1882.zip",
+      "mtime": 1511648102,
+      "size": 14728
+    },
+    "gl1883.zip": {
+      "filename": "gl1883.zip",
+      "mtime": 1511648103,
+      "size": 18592
+    },
+    "gl1884.zip": {
+      "filename": "gl1884.zip",
+      "mtime": 1511648103,
+      "size": 40515
+    },
+    "gl1885.zip": {
+      "filename": "gl1885.zip",
+      "mtime": 1511648103,
+      "size": 21782
+    },
+    "gl1886.zip": {
+      "filename": "gl1886.zip",
+      "mtime": 1511648103,
+      "size": 29438
+    },
+    "gl1887.zip": {
+      "filename": "gl1887.zip",
+      "mtime": 1511648104,
+      "size": 30710
+    },
+    "gl1888.zip": {
+      "filename": "gl1888.zip",
+      "mtime": 1511648104,
+      "size": 31197
+    },
+    "gl1889.zip": {
+      "filename": "gl1889.zip",
+      "mtime": 1511648104,
+      "size": 31894
+    },
+    "gl1890.zip": {
+      "filename": "gl1890.zip",
+      "mtime": 1511648104,
+      "size": 46701
+    },
+    "gl1891.zip": {
+      "filename": "gl1891.zip",
+      "mtime": 1511648105,
+      "size": 29477
+    },
+    "gl1892.zip": {
+      "filename": "gl1892.zip",
+      "mtime": 1511648105,
+      "size": 25149
+    },
+    "gl1893.zip": {
+      "filename": "gl1893.zip",
+      "mtime": 1511648105,
+      "size": 22144
+    },
+    "gl1894.zip": {
+      "filename": "gl1894.zip",
+      "mtime": 1511648106,
+      "size": 33059
+    },
+    "gl1895.zip": {
+      "filename": "gl1895.zip",
+      "mtime": 1511648106,
+      "size": 21931
+    },
+    "gl1896.zip": {
+      "filename": "gl1896.zip",
+      "mtime": 1511648106,
+      "size": 21344
+    },
+    "gl1897.zip": {
+      "filename": "gl1897.zip",
+      "mtime": 1511648106,
+      "size": 21683
+    },
+    "gl1898.zip": {
+      "filename": "gl1898.zip",
+      "mtime": 1511648107,
+      "size": 24712
+    },
+    "gl1899.zip": {
+      "filename": "gl1899.zip",
+      "mtime": 1511648107,
+      "size": 33609
+    },
+    "gl1900.zip": {
+      "filename": "gl1900.zip",
+      "mtime": 1511648107,
+      "size": 14768
+    },
+    "gl1901.zip": {
+      "filename": "gl1901.zip",
+      "mtime": 1511648108,
+      "size": 40683
+    },
+    "gl1902.zip": {
+      "filename": "gl1902.zip",
+      "mtime": 1511648108,
+      "size": 40188
+    },
+    "gl1903.zip": {
+      "filename": "gl1903.zip",
+      "mtime": 1511648109,
+      "size": 29978
+    },
+    "gl1904.zip": {
+      "filename": "gl1904.zip",
+      "mtime": 1511648109,
+      "size": 43509
+    },
+    "gl1905.zip": {
+      "filename": "gl1905.zip",
+      "mtime": 1511648110,
+      "size": 33185
+    },
+    "gl1906.zip": {
+      "filename": "gl1906.zip",
+      "mtime": 1511648110,
+      "size": 33818
+    },
+    "gl1907.zip": {
+      "filename": "gl1907.zip",
+      "mtime": 1511648110,
+      "size": 33813
+    },
+    "gl1908.zip": {
+      "filename": "gl1908.zip",
+      "mtime": 1511648111,
+      "size": 142144
+    },
+    "gl1909.zip": {
+      "filename": "gl1909.zip",
+      "mtime": 1511648111,
+      "size": 144076
+    },
+    "gl1910.zip": {
+      "filename": "gl1910.zip",
+      "mtime": 1511648111,
+      "size": 146932
+    },
+    "gl1911.zip": {
+      "filename": "gl1911.zip",
+      "mtime": 1511648112,
+      "size": 149266
+    },
+    "gl1912.zip": {
+      "filename": "gl1912.zip",
+      "mtime": 1511648112,
+      "size": 150376
+    },
+    "gl1913.zip": {
+      "filename": "gl1913.zip",
+      "mtime": 1511648113,
+      "size": 150602
+    },
+    "gl1914.zip": {
+      "filename": "gl1914.zip",
+      "mtime": 1511648113,
+      "size": 252269
+    },
+    "gl1915.zip": {
+      "filename": "gl1915.zip",
+      "mtime": 1511648113,
+      "size": 251058
+    },
+    "gl1916.zip": {
+      "filename": "gl1916.zip",
+      "mtime": 1511648114,
+      "size": 148515
+    },
+    "gl1917.zip": {
+      "filename": "gl1917.zip",
+      "mtime": 1511648114,
+      "size": 151503
+    },
+    "gl1918.zip": {
+      "filename": "gl1918.zip",
+      "mtime": 1511648114,
+      "size": 116743
+    },
+    "gl1919.zip": {
+      "filename": "gl1919.zip",
+      "mtime": 1511648115,
+      "size": 132239
+    },
+    "gl1920.zip": {
+      "filename": "gl1920.zip",
+      "mtime": 1511648115,
+      "size": 150431
+    },
+    "gl1921.zip": {
+      "filename": "gl1921.zip",
+      "mtime": 1511648116,
+      "size": 156516
+    },
+    "gl1922.zip": {
+      "filename": "gl1922.zip",
+      "mtime": 1511648116,
+      "size": 158274
+    },
+    "gl1923.zip": {
+      "filename": "gl1923.zip",
+      "mtime": 1511648117,
+      "size": 156875
+    },
+    "gl1924.zip": {
+      "filename": "gl1924.zip",
+      "mtime": 1511648118,
+      "size": 159657
+    },
+    "gl1925.zip": {
+      "filename": "gl1925.zip",
+      "mtime": 1511648118,
+      "size": 168573
+    },
+    "gl1926.zip": {
+      "filename": "gl1926.zip",
+      "mtime": 1511648119,
+      "size": 166625
+    },
+    "gl1927.zip": {
+      "filename": "gl1927.zip",
+      "mtime": 1511648119,
+      "size": 166725
+    },
+    "gl1928.zip": {
+      "filename": "gl1928.zip",
+      "mtime": 1511648120,
+      "size": 164772
+    },
+    "gl1929.zip": {
+      "filename": "gl1929.zip",
+      "mtime": 1511648120,
+      "size": 165479
+    },
+    "gl1930.zip": {
+      "filename": "gl1930.zip",
+      "mtime": 1511648121,
+      "size": 169169
+    },
+    "gl1931.zip": {
+      "filename": "gl1931.zip",
+      "mtime": 1511648121,
+      "size": 166197
+    },
+    "gl1932.zip": {
+      "filename": "gl1932.zip",
+      "mtime": 1511648121,
+      "size": 161768
+    },
+    "gl1933.zip": {
+      "filename": "gl1933.zip",
+      "mtime": 1511648121,
+      "size": 159813
+    },
+    "gl1934.zip": {
+      "filename": "gl1934.zip",
+      "mtime": 1511648122,
+      "size": 160584
+    },
+    "gl1935.zip": {
+      "filename": "gl1935.zip",
+      "mtime": 1511648122,
+      "size": 164753
+    },
+    "gl1936.zip": {
+      "filename": "gl1936.zip",
+      "mtime": 1511648123,
+      "size": 165867
+    },
+    "gl1937.zip": {
+      "filename": "gl1937.zip",
+      "mtime": 1511648123,
+      "size": 166864
+    },
+    "gl1938.zip": {
+      "filename": "gl1938.zip",
+      "mtime": 1511648123,
+      "size": 166652
+    },
+    "gl1939.zip": {
+      "filename": "gl1939.zip",
+      "mtime": 1511648123,
+      "size": 170715
+    },
+    "gl1940.zip": {
+      "filename": "gl1940.zip",
+      "mtime": 1511648124,
+      "size": 170941
+    },
+    "gl1941.zip": {
+      "filename": "gl1941.zip",
+      "mtime": 1511648125,
+      "size": 174972
+    },
+    "gl1942.zip": {
+      "filename": "gl1942.zip",
+      "mtime": 1511648125,
+      "size": 170880
+    },
+    "gl1943.zip": {
+      "filename": "gl1943.zip",
+      "mtime": 1511648126,
+      "size": 169496
+    },
+    "gl1944.zip": {
+      "filename": "gl1944.zip",
+      "mtime": 1511648127,
+      "size": 170915
+    },
+    "gl1945.zip": {
+      "filename": "gl1945.zip",
+      "mtime": 1511648128,
+      "size": 171804
+    },
+    "gl1946.zip": {
+      "filename": "gl1946.zip",
+      "mtime": 1511648128,
+      "size": 179965
+    },
+    "gl1947.zip": {
+      "filename": "gl1947.zip",
+      "mtime": 1511648128,
+      "size": 176903
+    },
+    "gl1948.zip": {
+      "filename": "gl1948.zip",
+      "mtime": 1511648129,
+      "size": 178621
+    },
+    "gl1949.zip": {
+      "filename": "gl1949.zip",
+      "mtime": 1511648129,
+      "size": 180747
+    },
+    "gl1950.zip": {
+      "filename": "gl1950.zip",
+      "mtime": 1511648129,
+      "size": 177558
+    },
+    "gl1951.zip": {
+      "filename": "gl1951.zip",
+      "mtime": 1511648130,
+      "size": 181986
+    },
+    "gl1952.zip": {
+      "filename": "gl1952.zip",
+      "mtime": 1511648130,
+      "size": 182039
+    },
+    "gl1953.zip": {
+      "filename": "gl1953.zip",
+      "mtime": 1511648130,
+      "size": 180803
+    },
+    "gl1954.zip": {
+      "filename": "gl1954.zip",
+      "mtime": 1511648131,
+      "size": 179952
+    },
+    "gl1955.zip": {
+      "filename": "gl1955.zip",
+      "mtime": 1511648131,
+      "size": 182831
+    },
+    "gl1956.zip": {
+      "filename": "gl1956.zip",
+      "mtime": 1511648132,
+      "size": 182850
+    },
+    "gl1957.zip": {
+      "filename": "gl1957.zip",
+      "mtime": 1511648132,
+      "size": 186060
+    },
+    "gl1958.zip": {
+      "filename": "gl1958.zip",
+      "mtime": 1511648132,
+      "size": 187663
+    },
+    "gl1959.zip": {
+      "filename": "gl1959.zip",
+      "mtime": 1511648133,
+      "size": 185261
+    },
+    "gl1960.zip": {
+      "filename": "gl1960.zip",
+      "mtime": 1511648133,
+      "size": 186839
+    },
+    "gl1961.zip": {
+      "filename": "gl1961.zip",
+      "mtime": 1511648134,
+      "size": 223134
+    },
+    "gl1962.zip": {
+      "filename": "gl1962.zip",
+      "mtime": 1511648135,
+      "size": 258375
+    },
+    "gl1963.zip": {
+      "filename": "gl1963.zip",
+      "mtime": 1511648135,
+      "size": 256844
+    },
+    "gl1964.zip": {
+      "filename": "gl1964.zip",
+      "mtime": 1511648136,
+      "size": 258780
+    },
+    "gl1965.zip": {
+      "filename": "gl1965.zip",
+      "mtime": 1511648136,
+      "size": 260459
+    },
+    "gl1966.zip": {
+      "filename": "gl1966.zip",
+      "mtime": 1511648137,
+      "size": 260171
+    },
+    "gl1967.zip": {
+      "filename": "gl1967.zip",
+      "mtime": 1511648137,
+      "size": 258692
+    },
+    "gl1968.zip": {
+      "filename": "gl1968.zip",
+      "mtime": 1511648138,
+      "size": 256984
+    },
+    "gl1969.zip": {
+      "filename": "gl1969.zip",
+      "mtime": 1511648138,
+      "size": 322283
+    },
+    "gl1970.zip": {
+      "filename": "gl1970.zip",
+      "mtime": 1511648139,
+      "size": 328043
+    },
+    "gl1971.zip": {
+      "filename": "gl1971.zip",
+      "mtime": 1511648139,
+      "size": 327908
+    },
+    "gl1972.zip": {
+      "filename": "gl1972.zip",
+      "mtime": 1511648140,
+      "size": 309885
+    },
+    "gl1973.zip": {
+      "filename": "gl1973.zip",
+      "mtime": 1511648141,
+      "size": 324254
+    },
+    "gl1974.zip": {
+      "filename": "gl1974.zip",
+      "mtime": 1511648142,
+      "size": 325055
+    },
+    "gl1975.zip": {
+      "filename": "gl1975.zip",
+      "mtime": 1511648142,
+      "size": 322982
+    },
+    "gl1976.zip": {
+      "filename": "gl1976.zip",
+      "mtime": 1511648143,
+      "size": 326408
+    },
+    "gl1977.zip": {
+      "filename": "gl1977.zip",
+      "mtime": 1511648143,
+      "size": 363490
+    },
+    "gl1978.zip": {
+      "filename": "gl1978.zip",
+      "mtime": 1511648144,
+      "size": 366771
+    },
+    "gl1979.zip": {
+      "filename": "gl1979.zip",
+      "mtime": 1511648144,
+      "size": 364855
+    },
+    "gl1980.zip": {
+      "filename": "gl1980.zip",
+      "mtime": 1511648145,
+      "size": 366399
+    },
+    "gl1981.zip": {
+      "filename": "gl1981.zip",
+      "mtime": 1511648146,
+      "size": 240839
+    },
+    "gl1982.zip": {
+      "filename": "gl1982.zip",
+      "mtime": 1511648147,
+      "size": 357594
+    },
+    "gl1983.zip": {
+      "filename": "gl1983.zip",
+      "mtime": 1511648147,
+      "size": 368122
+    },
+    "gl1984.zip": {
+      "filename": "gl1984.zip",
+      "mtime": 1511648148,
+      "size": 366899
+    },
+    "gl1985.zip": {
+      "filename": "gl1985.zip",
+      "mtime": 1511648149,
+      "size": 363241
+    },
+    "gl1986.zip": {
+      "filename": "gl1986.zip",
+      "mtime": 1511648149,
+      "size": 372070
+    },
+    "gl1987.zip": {
+      "filename": "gl1987.zip",
+      "mtime": 1511648150,
+      "size": 366977
+    },
+    "gl1988.zip": {
+      "filename": "gl1988.zip",
+      "mtime": 1511648150,
+      "size": 362773
+    },
+    "gl1989.zip": {
+      "filename": "gl1989.zip",
+      "mtime": 1511648151,
+      "size": 366030
+    },
+    "gl1990.zip": {
+      "filename": "gl1990.zip",
+      "mtime": 1511648151,
+      "size": 376036
+    },
+    "gl1991.zip": {
+      "filename": "gl1991.zip",
+      "mtime": 1511648152,
+      "size": 376497
+    },
+    "gl1992.zip": {
+      "filename": "gl1992.zip",
+      "mtime": 1511648153,
+      "size": 375898
+    },
+    "gl1993.zip": {
+      "filename": "gl1993.zip",
+      "mtime": 1511648154,
+      "size": 409802
+    },
+    "gl1994.zip": {
+      "filename": "gl1994.zip",
+      "mtime": 1511648155,
+      "size": 290328
+    },
+    "gl1995.zip": {
+      "filename": "gl1995.zip",
+      "mtime": 1511648155,
+      "size": 368881
+    },
+    "gl1996.zip": {
+      "filename": "gl1996.zip",
+      "mtime": 1511648156,
+      "size": 414478
+    },
+    "gl1997.zip": {
+      "filename": "gl1997.zip",
+      "mtime": 1511648157,
+      "size": 425106
+    },
+    "gl1998.zip": {
+      "filename": "gl1998.zip",
+      "mtime": 1511648157,
+      "size": 463452
+    },
+    "gl1999.zip": {
+      "filename": "gl1999.zip",
+      "mtime": 1511648158,
+      "size": 463836
+    },
+    "gl2000.zip": {
+      "filename": "gl2000.zip",
+      "mtime": 1511648158,
+      "size": 466025
+    },
+    "gl2001.zip": {
+      "filename": "gl2001.zip",
+      "mtime": 1511648159,
+      "size": 460114
+    },
+    "gl2002.zip": {
+      "filename": "gl2002.zip",
+      "mtime": 1511648160,
+      "size": 465212
+    },
+    "gl2003.zip": {
+      "filename": "gl2003.zip",
+      "mtime": 1511648161,
+      "size": 464705
+    },
+    "gl2004.zip": {
+      "filename": "gl2004.zip",
+      "mtime": 1511648162,
+      "size": 470821
+    },
+    "gl2005.zip": {
+      "filename": "gl2005.zip",
+      "mtime": 1511648163,
+      "size": 466452
+    },
+    "gl2006.zip": {
+      "filename": "gl2006.zip",
+      "mtime": 1511648164,
+      "size": 467683
+    },
+    "gl2007.zip": {
+      "filename": "gl2007.zip",
+      "mtime": 1511648164,
+      "size": 471966
+    },
+    "gl2008.zip": {
+      "filename": "gl2008.zip",
+      "mtime": 1511648165,
+      "size": 471426
+    },
+    "gl2009.zip": {
+      "filename": "gl2009.zip",
+      "mtime": 1511648165,
+      "size": 473129
+    },
+    "gl2010.zip": {
+      "filename": "gl2010.zip",
+      "mtime": 1511648166,
+      "size": 467437
+    },
+    "gl2011.zip": {
+      "filename": "gl2011.zip",
+      "mtime": 1511648167,
+      "size": 479753
+    },
+    "gl2012.zip": {
+      "filename": "gl2012.zip",
+      "mtime": 1511648168,
+      "size": 480208
+    },
+    "gl2013.zip": {
+      "filename": "gl2013.zip",
+      "mtime": 1511648169,
+      "size": 487000
+    },
+    "gl2014.zip": {
+      "filename": "gl2014.zip",
+      "mtime": 1511648170,
+      "size": 485750
+    },
+    "gl2015.zip": {
+      "filename": "gl2015.zip",
+      "mtime": 1511648170,
+      "size": 486097
+    },
+    "gl2016.zip": {
+      "filename": "gl2016.zip",
+      "mtime": 1511648171,
+      "size": 486833
+    },
+    "gl2017.zip": {
+      "filename": "gl2017.zip",
+      "mtime": 1511648171,
+      "size": 492181
+    },
+    "glfields.txt": {
+      "filename": "glfields.txt",
+      "mtime": 1435283133,
+      "size": 6559
+    },
+    "parkcode.txt": {
+      "filename": "parkcode.txt",
+      "mtime": 1512358391,
+      "size": 20137
+    },
+    "retroID.htm": {
+      "filename": "retroID.htm"
+    }
+  }
+}
