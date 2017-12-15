@@ -1,0 +1,11 @@
+{
+    "name": "datalad-retrosheet-gamelogs",
+    "title": "DataLad dataset of Retrosheet's game logs",
+    "licenses" : ["custom; see http://www.retrosheet.org/notice.txt"],
+    "sources":  [
+        {
+            "title": "Retrosheet",
+            "path": "http://www.retrosheet.org/gamelogs/"
+        }
+    ]
+}
